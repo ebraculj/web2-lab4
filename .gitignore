@@ -1,0 +1,15 @@
+# Ignore SSL certificates and keys
+ssl/
+
+# Ignore logs
+logs/
+
+# Ignore Nginx executables
+nginx.exe
+nginx.pid
+
+# Ignore temporary or system files
+*.tmp
+*.bak
+*.swp
+*.log

@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #051274;
+}
+
+p {
+    text-align: center;
+    margin: 10px 20px;
+    font-size: 1.2rem;
+}
+
+img{
+    height: 70vb;
+    width: 80vh;
+}
